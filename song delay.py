@@ -1,6 +1,7 @@
 import time
 
 print("SADBOY")
+print("DAMM!")
 
 lyrics = [
     "เธอสบายดีไหม",
